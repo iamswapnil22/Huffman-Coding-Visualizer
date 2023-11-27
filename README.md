@@ -37,11 +37,12 @@ Run the app:
 - [Material UI](https://mui.com/) - Utilized the component library to facilitate the building the front-end
 - [D3js](https://d3js.org/) - Javascript library used to visualize the huffman tree
 
-## Contributing
-
-All issues and feature requests are welcome.
-Feel free to check the [issues page](https://github.com/JonathanCen/Huffman-Coding-Visualizer/issues) if you want to contribute.
 
 ## Authors
 
 - [**Swapnil Shivpuje**]([https://jonathancen.me/](https://swappy-web.netlify.app/)) - [LinkedIn](https://www.linkedin.com/in/swapnil-shivpuje-182305246/), [Github](https://github.com/iamswapnil22)
+
+
+## Snapshots
+
+<img width="1279" alt="image" src="https://github.com/iamswapnil22/Huffman-Coding-Visualizer/assets/95163993/a03c1824-d9c7-4cda-824d-b8580e14a581">
