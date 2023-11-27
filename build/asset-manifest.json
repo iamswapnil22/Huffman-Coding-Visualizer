@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Huffman-Coding-Visualizer/static/css/main.ecf55b61.css",
+    "main.js": "/Huffman-Coding-Visualizer/static/js/main.8c4a172b.js",
+    "static/js/787.669b161a.chunk.js": "/Huffman-Coding-Visualizer/static/js/787.669b161a.chunk.js",
+    "index.html": "/Huffman-Coding-Visualizer/index.html",
+    "main.ecf55b61.css.map": "/Huffman-Coding-Visualizer/static/css/main.ecf55b61.css.map",
+    "main.8c4a172b.js.map": "/Huffman-Coding-Visualizer/static/js/main.8c4a172b.js.map",
+    "787.669b161a.chunk.js.map": "/Huffman-Coding-Visualizer/static/js/787.669b161a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf55b61.css",
+    "static/js/main.8c4a172b.js"
+  ]
+}
