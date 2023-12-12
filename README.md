@@ -46,3 +46,6 @@ Run the app:
 ## Snapshots
 
 <img width="1279" alt="image" src="https://github.com/iamswapnil22/Huffman-Coding-Visualizer/assets/95163993/a03c1824-d9c7-4cda-824d-b8580e14a581">
+
+
+
